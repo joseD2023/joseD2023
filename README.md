@@ -38,11 +38,11 @@ con nociones en **JavaScript** y **React**, y con muchas ganas de seguir aprendi
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joseD2023&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=joseD2023)](https://github.com/stats-organization/github-stats-extended)
 
-```markdown
+
 ### 💻 Lenguajes que utilizo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseD2023&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8)
-```
+
 
 
 ## Link Icons 
