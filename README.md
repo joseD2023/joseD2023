@@ -41,9 +41,9 @@ con nociones en **JavaScript** y **React**, y con muchas ganas de seguir aprendi
 
 ### 💻 Lenguajes que utilizo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseD2023&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8)](https://github.com/joseD2023)
+### 💻 Lenguajes que utilizo
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseD2023&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&theme=radical)
 
 ## Link Icons 
 https://devicon.dev/
