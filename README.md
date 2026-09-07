@@ -37,7 +37,7 @@ con nociones en **JavaScript** y **React**, y con muchas ganas de seguir aprendi
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joseD2023&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=joseD2023)](https://github.com/stats-organization/github-stats-extended)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseD2023&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseD2023&layout=compact&theme=tokyonight)
 
 ## Link Icons 
 https://devicon.dev/
