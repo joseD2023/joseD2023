@@ -39,12 +39,6 @@ con nociones en **JavaScript** y **React**, y con muchas ganas de seguir aprendi
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=joseD2023)](https://github.com/stats-organization/github-stats-extended)
 
 
-### 💻 Lenguajes que utilizo
-
-### 💻 Lenguajes que utilizo
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseD2023&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&theme=radical)
-
 ## Link Icons 
 https://devicon.dev/
 
