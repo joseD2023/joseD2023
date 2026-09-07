@@ -34,6 +34,9 @@ con nociones en **JavaScript** y **React**, y con muchas ganas de seguir aprendi
 ## Sistemas Operativos 
   <img src="https://devicon-website.vercel.app/api/linux/original.svg" width="40" />
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=joseD2023&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
+
 ## Link Icons 
 https://devicon.dev/
 
